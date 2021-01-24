@@ -13,7 +13,7 @@ const greeting = {
   username: "Jane You",
   title: "Hi there, I am Jane",
   subTitle: emoji("I am a software developer with 2 years of experience debugging, maintaining and implementing new features to the existing applications and platforms written in React JS, Javascript, HTML, Node JS, CSS, Python and Java to improve user experience and make software updates. I am constantly looking for challenging problems to tackle on HackerRank and Leetcode, and working towards Udemy completion certificates in React JS, JavaScript, MongoDB and Node.js in my free time."),
-  resumeLink: "https://docs.google.com/document/d/1du-4Zwe6455j7eIQ_kOGw_ugZZHUTS-qNeaP_1yDjaY/edit"
+  resumeLink: "https://docs.google.com/document/d/1TFR0v2J38BKnD0H7Dv0_a5Q5qNdVDMZq1igN4NM5X8E/edit?usp=sharing"
                
 };
 
@@ -65,6 +65,10 @@ softwareSkills: [
   {
     skillName: "firebase",
     fontAwesomeClassname: "fas fa-fire"
+  },
+  {
+    skillName: "nodejs",
+    fontAwesomeClassname: "fab fa-node"
   },
   {
     skillName: "python",
@@ -125,7 +129,7 @@ const workExperiences = {
       companylogo: require("./assets/images/bmo-logo.jpg"),
       date: "January 2019– March 2020 (Contract)",
       descBullets: [
-        "Automated the repetitive business processes that BMO clients perform on a regular basis using Pega Robotics Studio. This shortened the overall processing time by 10%",
+        "Maintained and optimized features, functionalities and capabilities to BMO’s websites using HTML5, JavaScript, and CSS3 to ensure websites were efficient and technically sound. Performed bug fixes and code reviews",
         "Fixed bugs and implemented new functionalities to existing software written in VBA and C# that assist BMO clients with processing transactions and other banking services"
       ]
       
