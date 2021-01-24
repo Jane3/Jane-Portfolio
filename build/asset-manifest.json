@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio-project/static/css/main.f4adb798.chunk.css",
+    "main.js": "/portfolio-project/static/js/main.f5573c37.chunk.js",
+    "main.js.map": "/portfolio-project/static/js/main.f5573c37.chunk.js.map",
+    "runtime-main.js": "/portfolio-project/static/js/runtime-main.f771bebf.js",
+    "runtime-main.js.map": "/portfolio-project/static/js/runtime-main.f771bebf.js.map",
+    "static/js/2.67f0c9c4.chunk.js": "/portfolio-project/static/js/2.67f0c9c4.chunk.js",
+    "static/js/2.67f0c9c4.chunk.js.map": "/portfolio-project/static/js/2.67f0c9c4.chunk.js.map",
+    "static/css/3.ca87188b.chunk.css": "/portfolio-project/static/css/3.ca87188b.chunk.css",
+    "static/js/3.0124e2c6.chunk.js": "/portfolio-project/static/js/3.0124e2c6.chunk.js",
+    "static/js/3.0124e2c6.chunk.js.map": "/portfolio-project/static/js/3.0124e2c6.chunk.js.map",
+    "index.html": "/portfolio-project/index.html",
+    "precache-manifest.1f76c7bf3df624e9b9af4c508ea17ed9.js": "/portfolio-project/precache-manifest.1f76c7bf3df624e9b9af4c508ea17ed9.js",
+    "service-worker.js": "/portfolio-project/service-worker.js",
+    "static/css/3.ca87188b.chunk.css.map": "/portfolio-project/static/css/3.ca87188b.chunk.css.map",
+    "static/css/main.f4adb798.chunk.css.map": "/portfolio-project/static/css/main.f4adb798.chunk.css.map",
+    "static/media/index.css": "/portfolio-project/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Communyco.png": "/portfolio-project/static/media/Communyco.c57ed71a.png",
+    "static/media/Jane.png": "/portfolio-project/static/media/Jane.7c686dc5.png",
+    "static/media/Pizza-Builder.png": "/portfolio-project/static/media/Pizza-Builder.d35c8d14.png",
+    "static/media/Recipe.png": "/portfolio-project/static/media/Recipe.b624b450.png",
+    "static/media/Skills.jpeg": "/portfolio-project/static/media/Skills.5aace10e.jpeg",
+    "static/media/bmo-logo.jpg": "/portfolio-project/static/media/bmo-logo.e200e517.jpg",
+    "static/media/contact.jpg": "/portfolio-project/static/media/contact.8e290eda.jpg",
+    "static/media/logo.svg": "/portfolio-project/static/media/logo.25bf045c.svg",
+    "static/media/sante-canada-.png": "/portfolio-project/static/media/sante-canada-.69f4b5d0.png",
+    "static/media/uOttawa.png": "/portfolio-project/static/media/uOttawa.7ecae964.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f771bebf.js",
+    "static/js/2.67f0c9c4.chunk.js",
+    "static/css/main.f4adb798.chunk.css",
+    "static/js/main.f5573c37.chunk.js"
+  ]
+}
