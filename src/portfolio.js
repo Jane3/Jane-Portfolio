@@ -109,8 +109,8 @@ const workExperiences = {
       companylogo: require("./assets/images/Communyco.png"),
       date: "December 2020– Current (Internship)",
       descBullets: [
-        "Developing back-end and front-end features from scratch with other developers for a full scale social media platform that connects content creators with their followers",
-        "Building and optimizing front-end design features and functionalities with React.js and React Hooks, developing Microservices with JavaScript, Typescript and Node.js, and fixing any bugs in the existing codebase"
+        "Building towards a mission that allows content creators to achieve content monetization and connect with their followers effectively by developing back-end and front-end features from scratch for a full scale social media platform",
+        "Improving user experience and optimizing application performance by building and sharpening front-end design features and functionalities with React.js and React Hooks, developing Microservices and Web APIs with JavaScript, Typescript and Node.js, and fixing any bugs in the existing codebase"
       ]
     },
     {
@@ -119,8 +119,8 @@ const workExperiences = {
       companylogo: require("./assets/images/bmo-logo.jpg"),
       date: "March 2020– July 2020 (Contract)",
       descBullets: [
-        "Implemented new functionalities to BMO's website with HTML5, JavaScript, CSS3 and jQuery for better user experience and web content updates, used Adobe Target and OpenText's Web Experience Management (WEM) for code implementation, and went through the code review process with the team using BitBucket",
-        "Performed A/B testing and Experience Targeting on Adobe Target to personalize content for website visitors"
+        "Improved user experience and optimized web contents by implementing new functionalities to BMO’s websites with HTML5, JavaScript, CSS3 and jQuery, using Adobe Target and OpenText's Web Experience Management (WEM) for code implementation, and going through code review process with the team using BitBucket",
+        "Personalized content for website visitors by performing A/B testing and Experience Targeting on Adobe Target"
       ]
     },
     {
@@ -129,8 +129,8 @@ const workExperiences = {
       companylogo: require("./assets/images/bmo-logo.jpg"),
       date: "January 2019– March 2020 (Contract)",
       descBullets: [
-        "Maintained and optimized features, functionalities and capabilities to BMO’s websites using HTML5, JavaScript, and CSS3 to ensure websites were efficient and technically sound. Performed bug fixes and code reviews",
-        "Fixed bugs and implemented new functionalities to existing software written in VBA and C# that assist BMO clients with processing transactions and other banking services"
+        "Ensured websites were efficient and technically sound by building and optimizing features, functionalities and capabilities to BMO’s websites using HTML5, JavaScript, and CSS3, and performing bug fixes and code reviews",
+        "Enhanced application performance to assist clients with processing transactions and performing other banking services by managing bug fixes and implementing new functionalities to existing software applications written in VBA and C#"
       ]
       
     },
@@ -140,7 +140,7 @@ const workExperiences = {
       companylogo: require("./assets/images/sante-canada-.png"),
       date: "May 2018– August 2018 (Co-op)",
       descBullets: [
-        "Debugged and developed a platform written in Java that could produce more detailed and accurate graphs from big data stored in Oracle Databases for comparison purposes",
+        "Improved the accuracy and data visibility of the graphs by debugging and developing a platform written in Java that could produce graphs from big data stored in Oracle Databases for comparison purposes",
         "Generated more sophisticated graphs and models by troubleshooting and developing SQL statements on a platform written in Python with MySQL Workbench"
       ]
     },
