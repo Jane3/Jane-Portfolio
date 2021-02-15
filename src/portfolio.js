@@ -110,7 +110,7 @@ const workExperiences = {
       date: "December 2020– Current (Internship)",
       descBullets: [
         "Building towards a mission that allows content creators to achieve content monetization and connect with their followers effectively by developing back-end and front-end features from scratch for a full scale social media platform",
-        "Improving user experience and optimizing application performance by building and sharpening front-end design features and functionalities with React.js and React Hooks, developing Microservices and Web APIs with JavaScript, Typescript and Node.js, and fixing any bugs in the existing codebase"
+        "Improving user experience and optimizing application performance for the social media platform by building and sharpening front-end design features and functionalities with React.js and React Hooks, developing Microservices and Web APIs with JavaScript, Typescript and Node.js, and fixing any bugs in the existing codebase"
       ]
     },
     {
@@ -130,7 +130,7 @@ const workExperiences = {
       date: "January 2019– March 2020 (Contract)",
       descBullets: [
         "Ensured websites were efficient and technically sound by building and optimizing features, functionalities and capabilities to BMO’s websites using HTML5, JavaScript, and CSS3, and performing bug fixes and code reviews",
-        "Enhanced application performance to assist clients with processing transactions and performing other banking services by managing bug fixes and implementing new functionalities to existing software applications written in VBA and C#"
+        "Enhanced application performance by managing bug fixes and implementing new functionalities to the existing software applications written in VBA and C# to assist clients with processing transactions and performing other banking services"
       ]
       
     },
