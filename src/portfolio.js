@@ -107,7 +107,7 @@ const workExperiences = {
       role: "Full-Stack Web Developer",
       company: "Communyco",
       companylogo: require("./assets/images/Communyco.png"),
-      date: "December 2020– February 2021(Internship)",
+      date: "December 2020– February 2021 (Internship)",
       descBullets: [
         "Built towards a mission that allows content creators to achieve content monetization and connect with their followers effectively by developing back-end and front-end features from scratch for a full scale social media platform",
         "Improved user experience and optimized web performance for the social media platform by building and sharpening front-end design features and functionalities with React.js and React Hooks, developing Microservices and Web APIs with JavaScript, Typescript and Node.js, and fixing any bugs in the existing codebase"
