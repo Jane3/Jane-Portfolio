@@ -109,7 +109,7 @@ const workExperiences = {
       companylogo: require("./assets/images/Sheen-for-she-foundation.png"),
       date: "March 2021– Current (Part-time)",
       descBullets: [
-        "Improving web functionalities and features by implementing code changes to existing codebase using Javascript, HTML and CSS and debugging through the codebase to fix any bugs present"
+        "Enhancing web functionalities and features by implementing code changes to existing codebase using Javascript, HTML and CSS and debugging through the codebase to fix any bugs present"
       ]
     },
     {
@@ -128,7 +128,7 @@ const workExperiences = {
       companylogo: require("./assets/images/bmo-logo.jpg"),
       date: "March 2020– July 2020 (Contract)",
       descBullets: [
-        "Improved user experience and optimized web contents by implementing new functionalities to BMO’s websites with HTML5, JavaScript, CSS3 and jQuery, using Adobe Target and OpenText's Web Experience Management (WEM) for code implementation, and going through code review process with the team using BitBucket",
+        "Improved user experience and refined web contents by implementing new functionalities to BMO’s websites with HTML5, JavaScript, CSS3 and jQuery, using Adobe Target and OpenText's Web Experience Management (WEM) for code implementation, and going through code review process with the team using BitBucket",
         "Personalized content for website visitors by performing A/B testing and Experience Targeting on Adobe Target"
       ]
     },
