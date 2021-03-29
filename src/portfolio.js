@@ -109,7 +109,7 @@ const workExperiences = {
       companylogo: require("./assets/images/Sheen-for-she-foundation.png"),
       date: "March 2021– Current (Part-time)",
       descBullets: [
-        "Enhancing web functionalities and features by implementing code changes to existing codebase using Javascript, HTML and CSS and debugging through the codebase to fix any bugs present"
+        "Enhancing web functionalities and features by implementing code changes to existing codebase using Javascript, React.js, HTML and CSS and debugging through the codebase to fix any bugs present"
       ]
     },
     {
