@@ -104,6 +104,15 @@ const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Web Developer",
+      company: "Sheen for She Foundation",
+      companylogo: require("./assets/images/Sheen-for-she-foundation.png"),
+      date: "March 2021– Current (Part-time)",
+      descBullets: [
+        "Improving web functionalities and features by implementing code changes to existing codebase using Javascript, HTML and CSS and debugging through the codebase to fix any bugs present"
+      ]
+    },
+    {
       role: "Full-Stack Web Developer",
       company: "Communyco",
       companylogo: require("./assets/images/Communyco.png"),
