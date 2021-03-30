@@ -109,7 +109,7 @@ const workExperiences = {
       companylogo: require("./assets/images/Sheen-for-she-foundation.png"),
       date: "March 2021– Current (Part-time)",
       descBullets: [
-        "Enhancing web functionalities and features by implementing code changes to existing codebase using Javascript, React.js, HTML and CSS and debugging through the codebase to fix any bugs present"
+        "Converting design wireframes into website elements by implementing code changes to existing codebase using Javascript, React.js, HTML and CSS and performing bug fixes"
       ]
     },
     {
@@ -118,7 +118,7 @@ const workExperiences = {
       companylogo: require("./assets/images/Communyco.png"),
       date: "December 2020– February 2021 (Internship)",
       descBullets: [
-        "Built towards a mission that allows content creators to achieve content monetization and connect with their followers effectively by developing back-end and front-end features from scratch for a full scale social media platform",
+        "Worked towards a mission that allows content creators to achieve content monetization and connect with their followers effectively by developing back-end and front-end features from scratch for a full scale social media platform",
         "Improved user experience and optimized web performance for the social media platform by building and sharpening front-end design features and functionalities with React.js and React Hooks, developing Microservices and Web APIs with JavaScript, Typescript and Node.js, and fixing any bugs in the existing codebase"
       ]
     },
@@ -129,6 +129,7 @@ const workExperiences = {
       date: "March 2020– July 2020 (Contract)",
       descBullets: [
         "Improved user experience and refined web contents by implementing new functionalities to BMO’s websites with HTML5, JavaScript, CSS3 and jQuery, using Adobe Target and OpenText's Web Experience Management (WEM) for code implementation, and going through code review process with the team using BitBucket",
+        "Made BMO's web components responsive by fixing alignments and padding with CSS Media Queries to ensure web components would appear properly in different browsers and mobile devices",
         "Personalized content for website visitors by performing A/B testing and Experience Targeting on Adobe Target"
       ]
     },
@@ -138,7 +139,7 @@ const workExperiences = {
       companylogo: require("./assets/images/bmo-logo.jpg"),
       date: "January 2019– March 2020 (Contract)",
       descBullets: [
-        "Ensured websites were efficient and technically sound by building and optimizing features, functionalities and capabilities to BMO’s websites using HTML5, JavaScript, and CSS3, and performing bug fixes and code reviews",
+        "Ensured websites were efficient and technically sound by collaborating with web designers and UX designers to build and test reusable code using JavaScript, HTML5, and CSS3",
         "Enhanced application performance by managing bug fixes and implementing new functionalities to the existing software applications written in VBA and C# to assist clients with processing transactions and performing other banking services"
       ]
       
