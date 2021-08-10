@@ -12,7 +12,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Jane You",
   title: "Hi there, I am Jane",
-  subTitle: emoji("I am a software developer with 3 years of experience debugging, maintaining and implementing new features to the existing applications and platforms written in React JS, Javascript, HTML, Node JS, CSS, Python and Java to improve user experience and make software updates. I am constantly looking for challenging problems to tackle on HackerRank and Leetcode, and working towards Udemy completion certificates in React JS, JavaScript, MongoDB and Node.js in my free time."),
+  subTitle: emoji("I am a software developer with 3 years of experience debugging, maintaining and implementing new features to the existing applications and platforms written in React JS, Javascript, HTML, Node JS, MongoDB, Bootstrap, CSS, Python and Java to improve user experience and make software updates. I am constantly looking for challenging problems to tackle on HackerRank and Leetcode, and working towards Udemy completion certificates in React JS, JavaScript, MongoDB and Node.js in my free time."),
   resumeLink: "https://docs.google.com/document/d/1tjmBpeeSrLjXY9NGBOWpTPAiwH-31g1d8_pqzWFLTdE/edit?usp=sharing"
                
 };
@@ -71,6 +71,14 @@ softwareSkills: [
     fontAwesomeClassname: "fab fa-node"
   },
   {
+    skillName: "mongodb",
+    fontAwesomeClassname: "fas fa-database"
+  },
+  {
+    skillName: "bootstrap",
+    fontAwesomeClassname: "fab fa-bootstrap"
+  },
+  {
     skillName: "python",
     fontAwesomeClassname: "fab fa-python"
   },
@@ -121,7 +129,7 @@ const workExperiences = {
       date: "December 2020– February 2021 (Internship)",
       descBullets: [
         "Worked towards a mission that allows content creators to achieve content monetization and connect with their followers effectively by developing back-end and front-end features from scratch for a full scale social media platform",
-        "Improved user experience and optimized web performance for the social media platform by building and sharpening front-end design features and functionalities with React.js and React Hooks, developing Microservices and Web APIs with JavaScript, Typescript and Node.js, and fixing any bugs in the existing codebase"
+        "Improved user experience and optimized web performance for the social media platform by building and sharpening front-end design features and functionalities with Bootstrap, React.js and React Hooks, developing Microservices and Web APIs with JavaScript, Typescript and Node.js, and fixing any bugs in the existing codebase"
       ]
     },
     {
