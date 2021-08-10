@@ -105,11 +105,13 @@ const workExperiences = {
   experience: [
     {
       role: "Web Developer",
-      company: "Sheen for She Foundation",
-      companylogo: require("./assets/images/Sheen-for-she-foundation.png"),
-      date: "March 2021– Current (Part-time)",
+      company: "Samco Machinery",
+      companylogo: require("./assets/images/Samco.jpeg"),
+      date: "April 2021– Current (Contract)",
       descBullets: [
-        "Converting design wireframes into website elements by implementing code changes to existing codebase using Javascript, React.js, HTML and CSS and performing bug fixes"
+        "Developing a RESTFul API using Node.js and Express.js, and integrating API with MongoDB database to update small sections of the Samco Webpage by fetching data from the server",
+        "Upgrading static forms to responsive web forms by designing online forms with Plumsail Forms, SharePoint Lists, JavaScript, HTML and CSS, and providing daily maintenance of the SharePoint site and online forms",
+        "Increasing employee efficiency by building automated workflow for the web forms using Power Automate"
       ]
     },
     {
