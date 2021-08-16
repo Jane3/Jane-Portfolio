@@ -117,9 +117,9 @@ const workExperiences = {
       companylogo: require("./assets/images/Samco.jpeg"),
       date: "April 2021– Current (Contract)",
       descBullets: [
-        "Developing a RESTFul API using Node.js and Express.js, and integrating API with MongoDB database to update small sections of the Samco Webpage by fetching data from the server",
-        "Upgrading static forms to responsive web forms by designing online forms with Plumsail Forms, SharePoint Lists, JavaScript, HTML and CSS, and providing daily maintenance of the SharePoint site and online forms",
-        "Increasing employee efficiency by building automated workflow for the web forms using Power Automate"
+        "Developing a RESTFul API using Node.js and Express.js, and integrating the API with MongoDB database to fetch and manipulate the data on Samco’s webpage",
+        "Upgrading static forms to responsive online forms by designing online forms with Plumsail Forms, SharePoint Lists, JavaScript, HTML and CSS, and providing daily maintenance of the SharePoint site and online forms",
+        "Increasing the efficiency in the workplace by building automated workflows for the online forms using Power Automate"
       ]
     },
     {
@@ -144,7 +144,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Application Software Developer",
+      role: "Web Application Developer",
       company: "Bank of Montréal, BMO",
       companylogo: require("./assets/images/bmo-logo.jpg"),
       date: "January 2019– March 2020 (Contract)",
