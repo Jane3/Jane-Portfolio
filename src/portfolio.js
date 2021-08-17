@@ -117,7 +117,7 @@ const workExperiences = {
       companylogo: require("./assets/images/Samco.jpeg"),
       date: "April 2021– Current (Contract)",
       descBullets: [
-        "Developing a RESTFul API using Node.js and Express.js, and integrating the API with MongoDB database to fetch and manipulate the data on Samco’s webpage",
+        "Developing a RESTFul API using Node.js and Express.js, and integrating the API with MongoDB to fetch, update and manipulate the data on Samco’s webpage",
         "Upgrading static forms to responsive online forms by designing online forms with Plumsail Forms, SharePoint Lists, JavaScript, HTML and CSS, and providing daily maintenance of the SharePoint site and online forms",
         "Increasing the efficiency in the workplace by building automated workflows for the online forms using Power Automate"
       ]
