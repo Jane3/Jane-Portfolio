@@ -117,9 +117,9 @@ const workExperiences = {
       companylogo: require("./assets/images/Samco.jpeg"),
       date: "April 2021– Current (Contract)",
       descBullets: [
-        "Developing a RESTFul API using Node.js and Express.js, and integrating the API with MongoDB to fetch, update and manipulate the data on Samco’s webpage",
-        "Upgrading static forms to responsive online forms by designing online forms with Plumsail Forms, SharePoint Lists, JavaScript, HTML and CSS, and providing daily maintenance of the SharePoint site and online forms",
-        "Increasing the efficiency in the workplace by building automated workflows for the online forms using Power Automate"
+        "Developing a RESTFul API using Node.js and Express.js, and integrating the API with MongoDB to fetch, update and manipulate the data on Samco’s webpage.",
+        "Upgrading static forms to responsive online forms by designing online forms with Plumsail Forms, SharePoint Lists, JavaScript, HTML and CSS, and providing daily maintenance of the SharePoint site and online forms.",
+        "Increasing the efficiency in the workplace by building automated workflows for the online forms using Power Automate."
       ]
     },
     {
@@ -128,8 +128,8 @@ const workExperiences = {
       companylogo: require("./assets/images/Communyco.png"),
       date: "December 2020– February 2021 (Internship)",
       descBullets: [
-        "Worked towards a mission that allows content creators to achieve content monetization and connect with their followers effectively by developing back-end and front-end features from scratch for a full scale social media platform",
-        "Improved user experience and optimized web performance for the social media platform by building and sharpening front-end design features and functionalities with Bootstrap, React.js and React Hooks, developing Microservices and Web APIs with JavaScript, Typescript and Node.js, and fixing any bugs in the existing codebase"
+        "Worked towards a mission that allows content creators to achieve content monetization and connect with their followers effectively by developing back-end and front-end features from scratch for a full scale social media platform.",
+        "Improved user experience and optimized web performance for the social media platform by building and sharpening front-end design features and functionalities with Bootstrap, React.js and React Hooks, developing Microservices and Web APIs with JavaScript, Typescript and Node.js, and fixing any bugs in the existing codebase."
       ]
     },
     {
@@ -138,9 +138,9 @@ const workExperiences = {
       companylogo: require("./assets/images/bmo-logo.jpg"),
       date: "March 2020– July 2020 (Contract)",
       descBullets: [
-        "Improved user experience and refined web contents by implementing new functionalities to BMO’s websites with HTML5, JavaScript, CSS3 and jQuery, using Adobe Target and OpenText's Web Experience Management (WEM) for code implementation, and going through code review process with the team using BitBucket",
-        "Made BMO's web components responsive by fixing alignments and padding with CSS Media Queries to ensure web components would appear properly in different browsers and mobile devices",
-        "Personalized content for website visitors by performing A/B testing and Experience Targeting on Adobe Target"
+        "Improved user experience and refined web contents by implementing new functionalities to BMO’s websites with HTML5, JavaScript, CSS3 and jQuery, using Adobe Target and OpenText's Web Experience Management (WEM) for code implementation, and going through code review process with the team using BitBucket.",
+        "Made BMO's web components responsive by fixing alignments and padding with CSS Media Queries to ensure web components would appear properly in different browsers and mobile devices.",
+        "Personalized content for website visitors by performing A/B testing and Experience Targeting on Adobe Target."
       ]
     },
     {
@@ -149,8 +149,8 @@ const workExperiences = {
       companylogo: require("./assets/images/bmo-logo.jpg"),
       date: "January 2019– March 2020 (Contract)",
       descBullets: [
-        "Ensured websites were efficient and technically sound by collaborating with web designers and UX designers to build and test reusable code using JavaScript, HTML5, and CSS3",
-        "Enhanced application performance by managing bug fixes and implementing new functionalities to the existing software applications written in VBA and C# to assist clients with processing transactions and performing other banking services"
+        "Ensured websites were efficient and technically sound by collaborating with web designers and UX designers to build and test reusable code using JavaScript, HTML5, and CSS3.",
+        "Enhanced application performance by managing bug fixes and implementing new functionalities to the existing software applications written in VBA and C# to assist clients with processing transactions and performing other banking services."
       ]
       
     },
@@ -160,8 +160,8 @@ const workExperiences = {
       companylogo: require("./assets/images/sante-canada-.png"),
       date: "May 2018– August 2018 (Co-op)",
       descBullets: [
-        "Improved the accuracy and data visibility of the graphs by debugging and developing a platform written in Java that could produce graphs from big data stored in Oracle Databases for comparison purposes",
-        "Generated more sophisticated graphs and models by troubleshooting and developing SQL statements on a platform written in Python with MySQL Workbench"
+        "Improved the accuracy and data visibility of the graphs by debugging and developing a platform written in Java that could produce graphs from big data stored in Oracle Databases for comparison purposes.",
+        "Generated more sophisticated graphs and models by troubleshooting and developing SQL statements on a platform written in Python with MySQL Workbench."
       ]
     },
   ]
