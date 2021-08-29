@@ -118,7 +118,7 @@ const workExperiences = {
       date: "April 2021– Current (Contract)",
       descBullets: [
         "Developing a RESTFul API using Node.js and Express.js, and integrating the API with MongoDB to fetch, update and manipulate the data on Samco’s webpage.",
-        "Upgrading static forms to responsive online forms by designing online forms with Plumsail Forms, SharePoint Lists, JavaScript, HTML and CSS, and providing daily maintenance of the SharePoint site and online forms.",
+        "Upgrading static forms to responsive online forms by designing online forms with JavaScript, HTML, CSS, SharePoint Lists, and Plumsail Forms, and providing daily maintenance of the SharePoint site and online forms.",
         "Increasing the efficiency in the workplace by building automated workflows for the online forms using Power Automate."
       ]
     },
@@ -126,10 +126,10 @@ const workExperiences = {
       role: "Full-Stack Web Developer",
       company: "Communyco",
       companylogo: require("./assets/images/Communyco.png"),
-      date: "December 2020– February 2021 (Internship)",
+      date: "November 2020– April 2021 (Internship)",
       descBullets: [
         "Worked towards a mission that allows content creators to achieve content monetization and connect with their followers effectively by developing back-end and front-end features from scratch for a full scale social media platform.",
-        "Improved user experience and optimized web performance for the social media platform by building and sharpening front-end design features and functionalities with Bootstrap, React.js and React Hooks, developing Microservices and Web APIs with JavaScript, Typescript and Node.js, and fixing any bugs in the existing codebase."
+        "Improved user experience and optimized web performance for the social media platform by building and sharpening front-end design features and functionalities with Bootstrap, React.js and React Hooks, developing Microservices and Web APIs with JavaScript, Typescript and Node.js, and writing functional unit tests using Jest."
       ]
     },
     {
