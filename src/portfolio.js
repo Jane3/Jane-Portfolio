@@ -136,10 +136,10 @@ const workExperiences = {
       role: "Front-End Web Developer",
       company: "Bank of Montréal, BMO",
       companylogo: require("./assets/images/bmo-logo.jpg"),
-      date: "March 2020– July 2020 (Contract)",
+      date: "March 2020– August 2020 (Contract)",
       descBullets: [
-        "Improved user experience and refined web contents by implementing new functionalities to BMO’s websites with HTML5, JavaScript, CSS3 and jQuery, using Adobe Target and OpenText's Web Experience Management (WEM) for code implementation, and going through code review process with the team using BitBucket.",
-        "Made BMO's web components responsive by fixing alignments and padding with CSS Media Queries to ensure web components would appear properly in different browsers and mobile devices.",
+        "Improved user experience for BMO.com, BMOHarris.com and Marketing Campaigns by implementing new functionalities and maintaining/enhancing existing functionalities to BMO’s websites with HTML5, JavaScript, CSS3 and jQuery, and ensuring that the existing codebase at BMO adhered to the best coding practices and was error free.",
+        "Built responsive web components for BMO by fixing the alignment and padding for the web components with CSS Media Queries to ensure the web components were optimized for any screen size, mobile device and browser.",
         "Personalized content for website visitors by performing A/B testing and Experience Targeting on Adobe Target."
       ]
     },
@@ -149,7 +149,8 @@ const workExperiences = {
       companylogo: require("./assets/images/bmo-logo.jpg"),
       date: "January 2019– March 2020 (Contract)",
       descBullets: [
-        "Ensured websites were efficient and technically sound by collaborating with web designers and UX designers to build and test reusable code using JavaScript, HTML5, and CSS3.",
+        "Ensured BMO.com, BMOHarris.com and BMO Online Banking were efficient and technically sound by collaborating with web designers and UX designers to build and test reusable code using JavaScript, HTML5, React.js, and CSS3.",
+        "Created documentations on internal JavaScript library, developer’s coding standards, unit testing tutorials, and WCAG Accessibility guidelines to help onboarding the new programmers.",
         "Enhanced application performance by managing bug fixes and implementing new functionalities to the existing software applications written in VBA and C# to assist clients with processing transactions and performing other banking services."
       ]
       
