@@ -118,6 +118,7 @@ const workExperiences = {
       date: "April 2021– Current (Contract)",
       descBullets: [
         "Developing a RESTFul API using Node.js and Express.js, and integrating the API with MongoDB to fetch, update and manipulate the data on Samco’s webpage.",
+        "Testing the functionality of API endpoints in Postman to see if the server is returning the correct results in JSON.",
         "Upgrading static forms to responsive online forms by designing online forms with JavaScript, HTML, CSS, SharePoint Lists, and Plumsail Forms, and providing daily maintenance of the SharePoint site and online forms.",
         "Increasing the efficiency in the workplace by building automated workflows for the online forms using Power Automate."
       ]
@@ -136,24 +137,14 @@ const workExperiences = {
       role: "Front-End Web Developer",
       company: "Bank of Montréal, BMO",
       companylogo: require("./assets/images/bmo-logo.jpg"),
-      date: "March 2020– August 2020 (Contract)",
+      date: "January 2019– August 2020 (Contract)",
       descBullets: [
-        "Improved user experience for BMO.com, BMOHarris.com and Marketing Campaigns by implementing new functionalities and maintaining/enhancing existing functionalities to BMO’s websites with HTML5, JavaScript, CSS3 and jQuery, and ensuring that the existing codebase at BMO adhered to the best coding practices and was error free.",
+        "Improved user experience for BMO.com, BMOHarris.com, BMO Online Banking and Marketing Campaigns by implementing new functionalities and maintaining/enhancing existing functionalities to BMO’s websites with HTML5, React.js, JavaScript, CSS3 and jQuery, and ensuring that the existing codebase at BMO adhered to the best coding practices, followed WCAG 2.0 standards and was AODA compliant.",
         "Built responsive web components for BMO by fixing the alignment and padding for the web components with CSS Media Queries to ensure the web components were optimized for any screen size, mobile device and browser.",
-        "Personalized content for website visitors by performing A/B testing and Experience Targeting on Adobe Target."
+        "Personalized content for website visitors by performing A/B testing and Experience Targeting on Adobe Target.",
+        "Participated in daily stand-ups, sprint planning, sprint demos, sprint retrospectives and backlog refinements resulting in on-time delivery rate of 95%.",
+        "Enhanced application performance by managing bug fixes and implementing new functionalities to existing software applications written in VBA and C# to assist clients with processing transactions and performing other banking services."
       ]
-    },
-    {
-      role: "Web Application Developer",
-      company: "Bank of Montréal, BMO",
-      companylogo: require("./assets/images/bmo-logo.jpg"),
-      date: "January 2019– March 2020 (Contract)",
-      descBullets: [
-        "Ensured BMO.com, BMOHarris.com and BMO Online Banking were efficient and technically sound by collaborating with web designers and UX designers to build and test reusable code using JavaScript, HTML5, React.js, and CSS3.",
-        "Created documentations on internal JavaScript library, developer’s coding standards, unit testing tutorials, and WCAG Accessibility guidelines to help onboarding the new programmers.",
-        "Enhanced application performance by managing bug fixes and implementing new functionalities to the existing software applications written in VBA and C# to assist clients with processing transactions and performing other banking services."
-      ]
-      
     },
     {
       role: "Software Programmer",
