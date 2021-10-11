@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9b07b43d6e6062a7cc7b8256bcd7aa40",
+    "revision": "859fe2443f0242b150c4c7bb1484ccc6",
     "url": "/Jane-Portfolio/index.html"
   },
   {
@@ -8,20 +8,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Jane-Portfolio/static/css/3.ca87188b.chunk.css"
   },
   {
-    "revision": "e735c722be7dc35980ba",
+    "revision": "627ca3588fe0cdf976fb",
     "url": "/Jane-Portfolio/static/css/main.3d92b4b9.chunk.css"
   },
   {
-    "revision": "f6d832b721509a32592f",
-    "url": "/Jane-Portfolio/static/js/2.8dfb3093.chunk.js"
+    "revision": "d5e020db8366d9fd01de",
+    "url": "/Jane-Portfolio/static/js/2.085152c3.chunk.js"
   },
   {
     "revision": "fa49cfd4248eb2930da2",
     "url": "/Jane-Portfolio/static/js/3.0d4d45c1.chunk.js"
   },
   {
-    "revision": "e735c722be7dc35980ba",
-    "url": "/Jane-Portfolio/static/js/main.0495fe20.chunk.js"
+    "revision": "627ca3588fe0cdf976fb",
+    "url": "/Jane-Portfolio/static/js/main.ad1898fb.chunk.js"
   },
   {
     "revision": "c2809a50d90a55abc3ae",
